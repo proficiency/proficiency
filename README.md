@@ -6,9 +6,9 @@ here's a brief description of some of my recent projects:
  hexen is a hexagonal grid shaped-based RTS combat game, it's gimmick is a modern entity component system which allows large unit counts.
 * [committer](https://github.com/proficiency/committer)
   silly rust 'hello, world!' project that commits to github. also uses json. 
-* [https://github.com/proficiency/ffresize](ffresize)
+* [ffresize](https://github.com/proficiency/ffresize)
   small python script that resizes videos to a given size with ffmpeg.
-* teensy NES controller
+* [teensy NES controller](https://github.com/proficiency/teensy_nes_controller)
   electronics project where you convert an old NES controller to work with usb by using a teensy microcontroller.
 
 _all my git commits are signed and verified using pgp_.
