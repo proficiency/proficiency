@@ -8,6 +8,8 @@ here's a brief description of some of my recent projects:
   silly rust 'hello, world!' project that commits to github. also uses json. 
 * [ffresize](https://github.com/proficiency/ffresize)
   small python script that resizes videos to a given size with ffmpeg.
+* **[ironsides](https://github.com/proficiency/ironsides/)**
+Naval combat game written in C++. 
 * [teensy NES controller](https://github.com/proficiency/teensy_nes_controller)
   electronics project where you convert an old NES controller to work with usb by using a teensy microcontroller.
 
