@@ -1,7 +1,7 @@
 ## Hello, world!
 I'm Annie! I'm a 23 y/o developer that's worked mostly in freelance. This Github is mostly about Rust, C++, Python, or occasionally Assembly. a lot of my projects have something to do with a game, and there's also one or two repos about reverse engineering electronics.
 
-here's a brief description of some of my recent projects:
+#### Recent projects:
 * **[ffresize](https://github.com/proficiency/ffresize)**
 small python script that resizes videos to a given size with ffmpeg.
 * **[ironsides](https://github.com/proficiency/ironsides/)**
