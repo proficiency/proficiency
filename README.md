@@ -10,5 +10,5 @@ naval combat game written in C++.
 convert an old NES controller to work with USB by using a Teensy microcontroller.
 * **[rope demo](https://github.com/proficiency/rope_demo)**
 demo that shows off [Jakobsen softbody physics](https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf) in the form of a rope, has some shapes floating around to collide the rope with.
-  
-_all my git commits are signed and verified using ssh_.
+---
+_All my git commits are signed and verified using ssh_.
